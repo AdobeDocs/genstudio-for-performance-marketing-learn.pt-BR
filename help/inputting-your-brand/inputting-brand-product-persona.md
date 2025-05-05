@@ -20,4 +20,4 @@ ht-degree: 83%
 
 Este vídeo apresenta uma explicação detalhada de como inserir no GenStudio for Performance Marketing as diretrizes de marca, os produtos e as principais personas de marketing da sua empresa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439376/?learn=on&enablevpops&captions=por_br)
