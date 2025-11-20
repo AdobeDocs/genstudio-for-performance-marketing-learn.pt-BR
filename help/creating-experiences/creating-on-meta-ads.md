@@ -1,5 +1,5 @@
 ---
-title: Criar meta anúncios da marca
+title: Criar anúncios da Meta On-Brand
 description: Siga uma apresentação passo a passo do produto sobre como criar um meta anúncio no [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Siga o passo a passo do produto para criar um anúncio para o Meta no [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435083/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
